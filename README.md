@@ -21,7 +21,7 @@ The main goal is to apply **Machine Learning** techniques to solve both academic
 - NumPy  
 - Matplotlib / Seaborn  
 - Scikit-learn  
-- (Optional) TensorFlow / PyTorch  
+  
 
 ---
 
@@ -37,4 +37,4 @@ The main goal is to apply **Machine Learning** techniques to solve both academic
 ## 🚀 How to Use this Repository
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/OFFICIAL-SBC/MachineLearningOne
